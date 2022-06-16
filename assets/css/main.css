@@ -15,3 +15,31 @@ body{
     text-align: center;
     border-radius: 15px;
 }
+
+.login-form h1{
+    color: #000;
+    margin-button: 30px
+}
+
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+.login-btn{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px o;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #000;
+}
